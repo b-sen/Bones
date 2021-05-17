@@ -141,3 +141,59 @@ Received Import Request.
 Start importing Assets/Scenes/GameScene.unity using Guid(c37a44ef60ab1094d8c956249bfd3f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f750dfdde2011f3c2bf69447dc3250') in 0.006570 seconds
   Import took 0.011456 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 108312.215603 seconds.
+  path: Assets/Prefabs/Menu Button.prefab
+  artifactKey: Guid(1f98fa76ded77f14b9104bb535e73ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Menu Button.prefab using Guid(1f98fa76ded77f14b9104bb535e73ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711f158457a60283a80d26885fba2824') in 0.077975 seconds
+  Import took 0.083436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002277 seconds.
+  path: Assets/Prefabs/Menu Button.prefab
+  artifactKey: Guid(1f98fa76ded77f14b9104bb535e73ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Menu Button.prefab using Guid(1f98fa76ded77f14b9104bb535e73ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711f158457a60283a80d26885fba2824') in 0.004913 seconds
+  Import took 0.008640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 266.045685 seconds.
+  path: Assets/Scenes/CreditsScene.unity
+  artifactKey: Guid(bebb45fec9a147345b42ed6a7163e238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CreditsScene.unity using Guid(bebb45fec9a147345b42ed6a7163e238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa63b270a2c854bbfcf366b0ca35bf8c') in 0.006375 seconds
+  Import took 0.012355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 282.635124 seconds.
+  path: Assets/Scenes/MenuScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MenuScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646db13ac9eb50f0684a4e450c8f346b') in 0.004472 seconds
+  Import took 0.020383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.411264 seconds.
+  path: Assets/Scenes/CreditsScene.unity
+  artifactKey: Guid(bebb45fec9a147345b42ed6a7163e238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CreditsScene.unity using Guid(bebb45fec9a147345b42ed6a7163e238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10bed9060873ed14c16bf6caf1be56a8') in 0.003573 seconds
+  Import took 0.040016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62142.838572 seconds.
+  path: Assets/Art/required_tojam2021_certified_transparent.png
+  artifactKey: Guid(282291a8c157a9b46b9c792337a332da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/required_tojam2021_certified_transparent.png using Guid(282291a8c157a9b46b9c792337a332da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231e315287eb5154064470deabf6fdce') in 0.266802 seconds
+  Import took 0.288053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001374 seconds.
+  path: Assets/Art/required_tojam2021_certified_transparent.png
+  artifactKey: Guid(282291a8c157a9b46b9c792337a332da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/required_tojam2021_certified_transparent.png using Guid(282291a8c157a9b46b9c792337a332da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231e315287eb5154064470deabf6fdce') in 0.020771 seconds
+  Import took 0.026174 seconds .
+
